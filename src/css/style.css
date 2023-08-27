@@ -1,0 +1,11 @@
+img {
+    max-width: 100%;
+}
+
+/* .is-hidden {
+  display: none;
+} */
+
+.breed-select {
+    visibility: hidden;
+}
